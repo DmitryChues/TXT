@@ -1,1 +1,9 @@
-
+Summary: Login: Error messages in the login from are displayed in English;
+Project: Yolochka;
+Version: 2.0;
+Severity: Major;
+Actual_result: Error massanges in the login fron are displayed in English;
+Expected_result: Error massanges in the login from are displayed in the chosen language;
+Author: Dmitry Chues;
+Status: new;
+Attachment: http://yolochka.com
