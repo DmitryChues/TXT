@@ -1,0 +1,4 @@
+name: Chues Dmitry Aleksandrovich
+age: 23
+pets: 3
+salary: 5000$
