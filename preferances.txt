@@ -1,0 +1,5 @@
+favorite_film - "King_Artur`s_sword",
+favorite_series - "Peaky_blinders",
+favorite_food - Pasta,
+favorite_season - Spring,
+country_to_visit - Iseland
